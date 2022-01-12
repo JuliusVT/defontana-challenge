@@ -8,7 +8,7 @@
 npm install
 ```
 
-### Comando para iniciar el programa
+### Comando para iniciar el programa en apartado desarrollo
 ```
 npm run serve
 ```
