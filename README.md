@@ -1,24 +1,18 @@
 # defontana_challenge
 
-## Project setup
+## Comando para instalar el proyecto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Comando para iniciar el programa
 ```
 npm run serve
+
+por defecto abre en el puerto http://localhost:8080/
 ```
 
-### Compiles and minifies for production
+### Comando para compilar y llevar a producción
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
