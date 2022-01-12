@@ -9,7 +9,7 @@ npm install
 ```
 npm run serve
 
-por defecto abre en el puerto http://localhost:8080/
+por defecto abre en el puerto [http://localhost:8080/](http://localhost:8080/)
 ```
 
 ### Comando para compilar y llevar a producción
