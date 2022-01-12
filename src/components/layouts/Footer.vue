@@ -19,4 +19,11 @@
     </div>
 </template>
 <style>
+footer {
+    background: #2c3e50;
+    color: #ffffff;
+}
+a{
+    color: #42b983!important;
+}
 </style>

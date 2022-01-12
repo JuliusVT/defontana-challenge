@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    <h3>Tree Sort</h3>
     <b-container>
       <div class="list">
         <Tree v-bind:data="getTree" />
